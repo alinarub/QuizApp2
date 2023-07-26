@@ -1,0 +1,20 @@
+.form {
+  border: 1px solid var(--black);
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  width: 100%;
+  position: fixed;
+  margin-top: 75px;
+  }
+}
+
+/* 
+main {
+} */
+
+.form__character-count {
+  font-size: inherit;
+  color: #666;
+}
